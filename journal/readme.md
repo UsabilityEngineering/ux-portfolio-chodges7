@@ -4,3 +4,5 @@
 - [First Journal Entry](j01/)
 - [Second Journal Entry](j02/)
 - [Third Journal Entry](j03/)
+
+[back to main page](../)

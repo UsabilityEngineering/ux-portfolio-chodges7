@@ -1,1 +1,3 @@
 # First Journal Entry...
+
+[back to journal](../)
