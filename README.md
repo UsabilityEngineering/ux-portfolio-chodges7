@@ -6,4 +6,6 @@
 
 
 ## UX Journal
-Here's a [link](journal/) to my journal.
+- [First Journal Entry](journal/j01/)
+- [Second Journal Entry](journal/j02/)
+- [Third Journal Entry](journal/j03/)

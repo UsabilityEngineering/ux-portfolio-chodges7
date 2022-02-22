@@ -1,3 +1,3 @@
 # Third Journal Entry...
 
-[back to journal](../)
+[back to journal](../../)
