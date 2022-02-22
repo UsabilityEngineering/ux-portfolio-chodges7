@@ -1,3 +1,3 @@
 # Third Journal Entry...
 
-[back to journal](../../) | [prev journal](../j02)
+[back to portfolio](../../) | [prev journal](../j02)
