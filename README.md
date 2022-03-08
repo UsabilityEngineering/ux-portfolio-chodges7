@@ -4,7 +4,7 @@
 <img src="assets/profile-picture.jpg" width="300" alt="Picture of Me!">
 
 ## UX Team Project
-
+[Sound Space project repo](https://github.com/UsabilityEngineering/Sound-Space)
 
 ## UX Journal
 - [First Journal Entry](journal/j01/)
