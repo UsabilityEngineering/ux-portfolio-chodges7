@@ -2,14 +2,14 @@
 
 ### By Christian Hodges
 
-<img src="../../assets/door1.jpg" width="300" alt="East Wing Door">
-<img src="../../assets/door2.jpg" width="300" alt="West Wing Door">
+<img src="../../assets/doors/door1.jpg" width="300" alt="East Wing Door">
+<img src="../../assets/doors/door2.jpg" width="300" alt="West Wing Door">
 
 So as you can imagine, the goal of a door is pretty self-explanatory: to get to the other side easily. Most of the time, this is not an issue that we figured out a pretty good way to signal to the user (person pushing/pulling on the door) how to open the door. Altough, I want to show you this wonderful door that I found while living on campus at CSU Chico in Lassen and Shasta residential halls. 
 
 These doors as shown above a opaque glass doors with a horizontal bar a little bit lower than halfway down the door. Just by looking at the door we can assess the **affordances** given by the object. We know that it is a door because there is what looks like a door frame with what we can assume is a push bar. We could pull on the horizontal bar, but with the angled mechanism shown here:
 
-<img src="../../assets/doorMechanism.jpg" width="300" alt="Mechanism of door">
+<img src="../../assets/doors/doorMechanism.jpg" width="300" alt="Mechanism of door">
 
 it would seem to afford that pushing on the door is how we open it. Not to anyone's surprise, the door is able to be opened by pushing on the horizontal bar, but the interesting part is which side that opens. One can only tell which side will swing open based on a small divit in the door frame. There is no other way to check which side of the door will open and which side is connected to the hinges. There have been many times that I would push on the wrong side of the door since I wasn't paying that much attention. For this reason, I just ended up pushing on the middle part of the horizontal bar so that I wouldn't have to think about it. This meant that the door was a little bit harder to push, but I never got it wrong again.
 
