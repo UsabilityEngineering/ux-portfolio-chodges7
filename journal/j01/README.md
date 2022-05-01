@@ -23,4 +23,4 @@ I'll now list each of the UX goals from the S.E.E. M.U.L.E.S. acronym and explai
 - **Error Tolerance**: This door is very error tolerant because if you push on the wrong size of the door then simply nothing happens. If this door had a bad error tolerance then the door would break.
 - **Memorability**: This is a normal door that everyone encounters daily so this object doesn't need to be memorable on its own.
 
-[back to portfolio](../../) | [next journal](../j02)
+[next journal](../j02)

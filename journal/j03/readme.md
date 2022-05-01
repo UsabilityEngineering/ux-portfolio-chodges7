@@ -30,4 +30,4 @@ Zepla HQ is a content creator that enjoys playing Final Fantasy. They play a DPS
 
 Sometimes, Zepla plays on autopilot while interacting with their chat or talking while creating videos. This means that they sometimes die to avoidable boss attacks. Because of this, Zepla changed their HUD layout to make it very clear how much health the boss has left and when the boss is about to do a big attack. Finally, since Zepla is a content creator she likes to have a facecam over the game while she streams on [Twitch.tv](https://twitch.tv/zeplahq). This means that she also likes to keep the majority of their non-job action commands off to the corner under their camera. Some of those action commands include emotes, teleport, food, jobs, and mount options.
 
-[back to portfolio](../../) | [prev journal](../j02)
+[prev journal](../j02)

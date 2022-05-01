@@ -30,4 +30,4 @@ Finally, let's go over each of the UX goals from the S.E.E. M.U.L.E.S. acronym:
 - **Error Tolerance**: Because this is a physical object, there is some allowences that come in the error tolerance area. If I accidentally manually trigger the feeder my cat will come running into the room thinking that they are getting fed early, but I just have to make sure my cat doesn't sneak extra food by hand.
 - **Memorability**: I regularlly forget how to use the buttons on the inside of the feeder. This is mainly because I don't have to change the times often so when I do I have forgotten what each button does.
 
-[back to portfolio](../../) | [prev journal](../j01) | [next journal](../j03)
+[prev journal](../j01) | [next journal](../j03)
