@@ -10,7 +10,7 @@ With the first example in Elden Ring, there is a preference for conveying inform
 
 <img src="../../assets/huds/ffxiv_mine.png" width="600">
 
-Some notes about my HUD are that I prefer the bigger map, I have more action bars than normal, and I like to keep all of the UI elements off the edges of the screen so that I can see action easily. I also have a section on the bottom left of the screen which holds miscellaneous actions like jobs I can switch to and emotes. If I were to make myself into a **persona** then I would list some of my goals as follows:
+Some notes about my HUD are that I prefer the optional bigger map, I have more action bars than normal, and I like to keep all of the UI elements off the edges of the screen so that I can see action easily. I also have a section on the bottom left of the screen which holds miscellaneous actions like jobs I can switch to and emotes. If I were to make myself into a **persona** then I would list some of my goals as follows:
 
 - Christian likes to know which skills are available to him
 - Christian sometimes doesn't care about the map, but will usually have the optional bigger map open rather than the always-on minimap
