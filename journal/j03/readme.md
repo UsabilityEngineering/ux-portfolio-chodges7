@@ -15,14 +15,14 @@ Some notes about my HUD are that I prefer the optional bigger map, I have more a
 - Christian likes to know which skills are available to him
 - Christian sometimes doesn't care about the map, but will usually have the optional bigger map open rather than the always-on minimap
 - He will use a keyboard and mouse
-- This **persona** will switch jobs on a regular basis and likes to have their other jobs available to switch to
+- This **persona** will switch jobs regularly and likes to have their other jobs available to switch to
 - When not doing anything this person likes to keep the majority of their screen uncluttered apart from the bottom of their screen.
 
 Now let's look at another person's HUD from FFXIV. The following screenshot is the HUD from a popular FFXIV content creator named [Zepla HQ](https://www.youtube.com/channel/UCJwM0fiKe2rq7z2p8HPTyMA). The screenshot below is from their video talking about their [HUD setup](https://www.youtube.com/watch?v=R0buenOiW5Q&ab_channel=ZeplaHQ)
 
 <img src="../../assets/huds/ffxiv_zepla.png" width="600">
 
-In one of their videos, they talk about the reasoning behind their HUD setup. Some of the things that they talk about are how they always want the health meter of the mob that they are attacking in the center of the screen so that they can see which the mob is about to cast and how much health they have left. Another thing that they have is all of the miscellaneous buttons that I had on my screen are hidden by their facecam. Since they are a content creator, they will have a facecam on when they are streaming or creating videos. This means that they themselves might need to click those buttons, but their viewers don't need to see that information. If I were a UX researcher for FFXIV I would list this **persona** as follows:
+In one of their videos, they talk about the reasoning behind their HUD setup. Some of the things that they talk about are how they always want the health meter of the mob that they are attacking in the center of the screen so that they can see which the mob is about to cast and how much health they have left. Another thing that they have is all of the miscellaneous buttons that I had on my screen are hidden by their facecam. Since they are a content creator, they will have a facecam on when they are streaming or creating videos. This means that they might need to click those buttons, but their viewers don't need to see that information. If I were a UX researcher for FFXIV I would list this **persona** as follows:
 
 **Zepla HQ (she/her/hers)**
 
